@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\bin\Debug\Revisao_de_matrix.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\bin\Debug\Revisao_de_matrix.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\bin\Debug\Revisao_de_matrix.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\obj\Debug\Revisao_de_matrix.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\obj\Debug\Revisao_de_matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\obj\Debug\Revisao_de_matrix.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\obj\Debug\Revisao_de_matrix.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Revisao_de_matrix\Revisao_de_matrix\obj\Debug\Revisao_de_matrix.pdb
